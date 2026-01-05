@@ -1,0 +1,57 @@
+# ShieldSpan — Generative Engine Optimization Map
+
+> A cyber security business.
+
+---
+
+## Pages
+
+### Home
+https://shieldspan-904b878c.zappy5.app
+Discover expert iaas paas saas solutions that deliver real results. ShieldSpan protects your business with cutting-edge cloud security solutions.
+
+### Services
+https://shieldspan-904b878c.zappy5.app/services
+Professional saas software as a service and cloud security solutions tailored to protect your enterprise infrastructure. Expert cybersecurity services for IT Security Managers.
+
+### About
+https://shieldspan-904b878c.zappy5.app/about
+Learn about ShieldSpan's mission to deliver cutting-edge cloud security solutions and iaas paas saas protection for enterprises. Expert cybersecurity team protecting IT infrastructure.
+
+### Contact
+https://shieldspan-904b878c.zappy5.app/contact
+Contact ShieldSpan for expert cloud security solutions and iaas paas saas protection. Connect with our cybersecurity team for a free consultation.
+
+## Legal & Policy
+
+### Privacy Policy
+https://shieldspan-904b878c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://shieldspan-904b878c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://shieldspan-904b878c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ShieldSpan
+ShieldSpan is a business in the cyber security industry.
+
+## Target Audience
+- IT Security Managers
+
+## Industry
+cyber security
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://shieldspan-904b878c.zappy5.app/sitemap.xml
+- **Robots.txt**: https://shieldspan-904b878c.zappy5.app/robots.txt

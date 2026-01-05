@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shieldspan-904b878c.zappy5.app/sitemap.xml
